@@ -32,3 +32,8 @@ Reading_v01_Tagged_full.txt
 frontend/build/
 backend/toeic_backend/.dart_tool/
 frontend/.dart_tool/
+
+# Media files (stored separately on demo-video branch)
+*.mp4
+*.mov
+*.webm
