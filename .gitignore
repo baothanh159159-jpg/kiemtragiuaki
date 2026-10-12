@@ -1,0 +1,34 @@
+# Flutter & Dart
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# IDEs & OS
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+.DS_Store
+Thumbs.db
+
+# Temp and lock files
+~$*
+*.tmp
+*.bak
+*.log
+*.sqlite-journal
+*.db-journal
+scratch_*.ps1
+*_extracted.txt
+levubaothanh_content.txt
+Reading_v01_Tagged_full.txt
+
+# Compiled / Build artifacts
+frontend/build/
+backend/toeic_backend/.dart_tool/
+frontend/.dart_tool/
